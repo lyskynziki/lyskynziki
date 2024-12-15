@@ -1,0 +1,50 @@
+body{
+    font-family: sans-serif;
+    background-color: darkorange;
+}
+
+nav{
+    background-color:beige ;
+    margin: 10px; ;
+    padding: 10px; ;
+    border: radius 10px; ;
+}
+.logo{
+    width: 300px;
+}
+
+nav a{
+    text-decoration: none;
+    margin: 10px; ;
+    padding: 2px;
+    color:red ;
+    background-color:burlywood ;
+    border: radius 10px;;
+
+}
+
+.contacts{
+    color: ;
+    background-color: ;   
+    text-decoration: none;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+main p{
+    
+}
+
+main img{
+
+}
+
+footer{
+
+}
+
+footer p{
+
+}
